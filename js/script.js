@@ -3,7 +3,11 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
 //GLOBAL VARIABLES
+var userChoice = "";
+var computerChoice = "";
+var winner = "";
 
+var randomNumber = 0;
 
 
 
